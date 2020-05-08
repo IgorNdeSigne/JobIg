@@ -7,7 +7,7 @@ Cette application affiche les offres d'emplois en utilisant une API de github di
 https://jobs.github.com/
 ```
 
-## Membres de l'équipe (3A-31)
+## Membre de l'équipe (3A-31)
 
 * Nde Signe Igor berenger
 
